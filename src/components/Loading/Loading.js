@@ -23,15 +23,7 @@ const Loading = () => {
         wrapperClass=""
         visible={true}
       />{" "}
-      <span
-        style={{
-          color: "black",
-          fontWeight: "bolder",
-          letterSpacing: "2px",
-        }}
-      >
-        Prakhar Pratap Mall
-      </span>
+   
     </div>
   );
 };
